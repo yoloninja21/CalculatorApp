@@ -167,6 +167,7 @@ namespace CalculatorApp
         private void button14_Click(object sender, EventArgs e)
         {
             //Clear
+            textBox1.Text = "";
         }
         private void button15_Click(object sender, EventArgs e)
         {
